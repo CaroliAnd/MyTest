@@ -1,2 +1,3 @@
 print("hello")
-print("hej".upper())
+print("this is not uppercase")
+
